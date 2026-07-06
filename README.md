@@ -113,10 +113,6 @@ Uber-Stock-Price-Prediction/
 ├── images/
 │   ├── closing_price.png
 │   ├── volume_trend.png
-│   ├── correlation_heatmap.png
-│   ├── moving_average.png
-│   ├── actual_vs_predicted.png
-│   └── feature_importance.png
 │
 ├── notebooks/
 │   └── Stock_Price_Prediction.ipynb
@@ -127,7 +123,6 @@ Uber-Stock-Price-Prediction/
 │
 ├── requirements.txt
 ├── README.md
-└── app.py
 ```
 
 ---
